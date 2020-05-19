@@ -57,5 +57,4 @@ public class Quotes {
 	public void setQuote(String quote) {
 		this.quote = quote;
 	}
-	
 }
